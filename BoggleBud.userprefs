@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{83F78F21-BF64-4E18-AB26-935EB140BAC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoggleBud/AppDelegate.cs">
+    <Files>
+      <File FileName="BoggleBud/AppDelegate.cs" Line="14" Column="10" />
+      <File FileName="BoggleBud/ViewController.cs" Line="155" Column="30" />
+      <File FileName="BoggleBud/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BoggleBud PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.833D0867-9E25-453E-8C86-CEBE35182C76" />
+</Properties>

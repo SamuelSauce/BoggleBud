@@ -1,0 +1,9 @@
+/Users/sambridge/Projects/BoggleBud/BoggleBud/bin/iPhoneSimulator/Debug/BoggleBud.exe
+/Users/sambridge/Projects/BoggleBud/BoggleBud/bin/iPhoneSimulator/Debug/BoggleBud.pdb
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/BoggleBud.csproj.CoreCompileInputs.cache
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/BoggleBud.exe
+/Users/sambridge/Projects/BoggleBud/BoggleBud/obj/iPhoneSimulator/Debug/BoggleBud.pdb
